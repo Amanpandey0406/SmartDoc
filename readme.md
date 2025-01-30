@@ -14,19 +14,19 @@ SmartDoc is an intelligent document analysis system that leverages the power of 
 ## 📸 Application Screenshots
 
 ### Main Interface
-![Main Interface]![our_app](https://github.com/user-attachments/assets/8ebe7f41-3f16-4cf3-89b0-4e2bf8b9f9e1)
+[our_app](https://github.com/user-attachments/assets/8ebe7f41-3f16-4cf3-89b0-4e2bf8b9f9e1)
 The main interface provides a clean, user-friendly design where you can upload your PDF documents and interact with the AI.
 
 ### PDF Upload Process
-![PDF Upload]![PDF_Uploaded](https://github.com/user-attachments/assets/9a9a7dd9-50fc-4b35-83c9-edd43362e81b)
+[PDF_Uploaded](https://github.com/user-attachments/assets/9a9a7dd9-50fc-4b35-83c9-edd43362e81b)
 Simply drag and drop or click to upload your PDF document. The system will process it automatically.
 
 ### Question Asking Interface
-![Question Interface]![processing](https://github.com/user-attachments/assets/27695220-c17c-49ab-bf8b-8ac39f7f0edb)
+[processing](https://github.com/user-attachments/assets/27695220-c17c-49ab-bf8b-8ac39f7f0edb)
 After processing, you can ask questions about your document's content using natural language.
 
 ### Answer Display
-![Answer Display]![Answer](https://github.com/user-attachments/assets/6de4b3a7-517e-44b7-ad61-ec7cb575b4d8)
+[Answer](https://github.com/user-attachments/assets/6de4b3a7-517e-44b7-ad61-ec7cb575b4d8)
 Get clear, context-aware answers derived directly from your document's content.
 
 ## 🛠️ Installation
